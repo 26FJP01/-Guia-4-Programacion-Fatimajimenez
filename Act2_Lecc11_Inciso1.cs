@@ -4,7 +4,6 @@
     {
             Console.WriteLine("=========================================");
             Console.WriteLine("   LECCION 11 - ACTIVIDAD 2 - INCISO 1");
-            Console.WriteLine("      BUCLE DO-WHILE (REPETIR)");
             Console.WriteLine("==========================================");
             int limite, actual = 2, iteracion = 1;
             Console.Write("Ingrese un limite entre 2 y 1000: ");
