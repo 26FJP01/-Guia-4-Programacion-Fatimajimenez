@@ -8,7 +8,7 @@
             Console.WriteLine("==========================================");
             int limite, actual = 2, iteracion = 1;
             Console.Write("Ingrese un limite entre 2 y 1000: ");
-            if (int.TryParse(Console.ReadLine(), out limite))
+            if (int.TryParse(Console.ReadLine(),limite))
             {
                 if (limite >= 2 && limite <= 1000)
                 {
