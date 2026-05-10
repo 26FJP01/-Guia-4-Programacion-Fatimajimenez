@@ -3,7 +3,7 @@
     private static void Main(string[] args)
     {
         Console.WriteLine("========================================");
-        Console.WriteLine("   LECCION 09 - ACTIVIDAD 3 - INCISO 1");
+        Console.WriteLine("   LECCION 9 - ACTIVIDAD 3 - INCISO 1");
         Console.WriteLine("        ENTEROS IMPARES - WHILE");
         Console.WriteLine("========================================");
 
